@@ -47,6 +47,6 @@ This project aims to recolour the UI, redesign icons, and more ♡
 ## ♡
 
 - Aesthetic -- Purple > Blue > Pink > Green
-- ModTheSims upload submission -- `Will upload when v0.0.1 is ready`
+- ModTheSims upload submission -- `Will update when published`
 
 [aecyia](https://github.com/aecyia) ♡ [VMPYRC](https://github.com/VMPYRC) ♡ Wisteria ♡ 2024
