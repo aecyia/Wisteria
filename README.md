@@ -47,6 +47,8 @@ This project aims to recolour the UI, redesign icons, and more ♡
 ## ♡
 
 - Aesthetic -- Purple > Blue > Pink > Green
+- Original tumblr [post](https://www.tumblr.com/simmanity/766360206910357504/)
+- More screenshots in these [discussions](https://github.com/aecyia/Wisteria/discussions/)
 - ModTheSims upload submission -- `Will update when published`
 
 [aecyia](https://github.com/aecyia) ♡ [VMPYRC](https://github.com/VMPYRC) ♡ Wisteria ♡ 2024
