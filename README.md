@@ -37,6 +37,6 @@ This project aims to recolour the UI, redesign icons, and more
 - Follows the folder structure of [TS3-Starter-UI](https://github.com/VMPYRC/TS3-Starter-UI)
 - Original tumblr [post](https://www.tumblr.com/simmanity/766360206910357504/)
 - More screenshots in these [discussions](https://github.com/aecyia/Wisteria/discussions/)
-- ModTheSims upload submission -- `Will update when published`
+- ModTheSims upload [submission](https://modthesims.info/d/687812)
 
 [aecyia](https://github.com/aecyia) ♡ [VMPYRC](https://github.com/VMPYRC) ♡ Wisteria ♡ 2024
