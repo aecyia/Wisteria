@@ -1,3 +1,7 @@
+🚨 Project Status ![Status: Stalled](https://img.shields.io/badge/status-stalled-yellow) 🚨
+
+> ⚠️ **This project is currently stalled** and not under frequent development.
+
 # Wisteria ♡
 
 Play The Sims 3 ?
