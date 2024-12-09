@@ -15280,7 +15280,7 @@
                     <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x06e23365" />
                     <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
                     <prop name="Area" propid="0xeec1b005" type="rectf" value="186.0001,194.9998,402.0001,261.9998" />
-                    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFFFBCCC" />
+                    <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFC0A0E0" />
                     <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
@@ -19285,7 +19285,7 @@
                 <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0" />
                 <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
                 <prop name="Area" propid="0xeec1b005" type="rectf" value="31,17,151,137" />
-                <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFFFBCCC" />
+                <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFC0A0E0" />
                 <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
                 <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                 <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
