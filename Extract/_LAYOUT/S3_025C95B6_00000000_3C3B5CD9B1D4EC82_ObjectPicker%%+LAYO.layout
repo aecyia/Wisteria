@@ -29,7 +29,7 @@
       </struct>
     </prop>
     <prop name="Colors" propid="0xaf58f7d4" type="uint32" count="6">
-      <value>0xff002d74</value>
+      <value>0xFF9966BB</value>
       <value>0x00000000</value>
       <value>0xffffffff</value>
       <value>0xbf5277b5</value>
@@ -419,7 +419,7 @@
     <prop name="NumSelectableRows" propid="0x05d16376" type="int32" value="1" />
     <prop name="ForceCellTooltips" propid="0x05d16375" type="bool" value="True" />
     <prop name="GridLinesVisible" propid="0x065d14c0" type="bool" value="False" />
-    <prop name="AlternateRowColor" propid="0x05d16377" type="uint32" value="0xffd2ebf7" />
+    <prop name="AlternateRowColor" propid="0x05d16377" type="uint32" value="0xFFFFFFFF" />
     <prop name="ScrollBarPadding" propid="0x05d16378" type="float" value="5" />
   </object>
   <object cls="TabContainer" clsid="0x71514937">

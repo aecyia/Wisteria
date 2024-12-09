@@ -56,7 +56,7 @@
             <prop name="Bottom" propid="4" type="float" value="0" />
           </struct>
         </prop>
-        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
         <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
         <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
         <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -177,7 +177,7 @@
         <prop name="GridLines" propid="0x05820905" type="bool" value="True" />
         <prop name="UseCellColors" propid="0x0582090d" type="bool" value="True" />
         <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0x00000000" />
-        <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0xffd2ebf7" />
+        <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0xFFFFFFFF" />
         <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffffffd9" />
         <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xfff3fcff" />
         <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
@@ -322,11 +322,11 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.5" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFF9966BB</value>
                   <value>0xff808fa9</value>
-                  <value>0xff002d74</value>
+                  <value>0xFF9966BB</value>
                   <value>0xffffffff</value>
-                  <value>0xff002d74</value>
+                  <value>0xFF9966BB</value>
                   <value>0xff808fa9</value>
                   <value>0xff4c69c4</value>
                   <value>0xffffffff</value>
@@ -347,14 +347,14 @@
         </prop>
         <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
         <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-          <value>0xff002d74</value>
+          <value>0xFF9966BB</value>
           <value>0xff808fa9</value>
           <value>0xffffffff</value>
-          <value>0xff002d74</value>
-          <value>0xff002d74</value>
+          <value>0xFF9966BB</value>
+          <value>0xFF9966BB</value>
           <value>0xff4c69c4</value>
-          <value>0xff002d74</value>
-          <value>0xff002d74</value>
+          <value>0xFF9966BB</value>
+          <value>0xFF9966BB</value>
         </prop>
         <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
         <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
@@ -435,11 +435,11 @@
                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.5" />
                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                  <value>0xff002d74</value>
+                  <value>0xFF9966BB</value>
                   <value>0xff808fa9</value>
-                  <value>0xff002d74</value>
+                  <value>0xFF9966BB</value>
                   <value>0xffffffff</value>
-                  <value>0xff002d74</value>
+                  <value>0xFF9966BB</value>
                   <value>0xff808fa9</value>
                   <value>0xff4c69c4</value>
                   <value>0xffffffff</value>
@@ -460,14 +460,14 @@
         </prop>
         <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
         <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-          <value>0xff002d74</value>
+          <value>0xFF9966BB</value>
           <value>0xff808fa9</value>
           <value>0xffffffff</value>
-          <value>0xff002d74</value>
-          <value>0xff002d74</value>
+          <value>0xFF9966BB</value>
+          <value>0xFF9966BB</value>
           <value>0xff4c69c4</value>
-          <value>0xff002d74</value>
-          <value>0xff002d74</value>
+          <value>0xFF9966BB</value>
+          <value>0xFF9966BB</value>
         </prop>
         <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
         <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />

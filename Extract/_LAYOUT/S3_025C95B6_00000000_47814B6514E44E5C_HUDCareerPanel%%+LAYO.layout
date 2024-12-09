@@ -359,7 +359,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffe5f6ff" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="0" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -388,7 +388,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffe5f6ff" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="0" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -457,7 +457,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -482,7 +482,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -506,7 +506,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -531,7 +531,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -614,7 +614,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffe5f6ff" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFFFFFF" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="0" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -638,7 +638,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -662,7 +662,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -745,14 +745,14 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff203d80</value>
+                              <value>0xFF9966BB</value>
                               <value>0xff4267b6</value>
-                              <value>0xff193066</value>
-                              <value>0xffe5ffff</value>
-                              <value>0xff203d80</value>
+                              <value>0xFF9966BB</value>
+                              <value>0xFFFFFFFF</value>
+                              <value>0xFF9966BB</value>
                               <value>0xff4267b6</value>
-                              <value>0xff193066</value>
-                              <value>0xffe5ffff</value>
+                              <value>0xFF9966BB</value>
+                              <value>0xFFFFFFFF</value>
                             </prop>
                           </object>
                           <value type="object" />
@@ -824,7 +824,7 @@
                                 <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                               </object>
                             </prop>
-                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                           </object>
@@ -860,7 +860,7 @@
                                     <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                   </object>
                                 </prop>
-                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                 <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                 <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                               </object>
@@ -896,7 +896,7 @@
                                         <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                       </object>
                                     </prop>
-                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                   </object>
@@ -932,7 +932,7 @@
                                             <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                           </object>
                                         </prop>
-                                        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                       </object>
@@ -968,7 +968,7 @@
                                                 <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                               </object>
                                             </prop>
-                                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                           </object>
@@ -1004,7 +1004,7 @@
                                                     <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                                   </object>
                                                 </prop>
-                                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                                 <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                                 <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                               </object>
@@ -1040,7 +1040,7 @@
                                                         <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                                       </object>
                                                     </prop>
-                                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                                   </object>
@@ -1068,7 +1068,7 @@
                                                 <prop name="Bottom" propid="4" type="float" value="0" />
                                               </struct>
                                             </prop>
-                                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -1083,7 +1083,7 @@
                                             <prop name="Bottom" propid="4" type="float" value="0" />
                                           </struct>
                                         </prop>
-                                        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                         <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                         <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                         <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -1098,7 +1098,7 @@
                                         <prop name="Bottom" propid="4" type="float" value="0" />
                                       </struct>
                                     </prop>
-                                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -1113,7 +1113,7 @@
                                     <prop name="Bottom" propid="4" type="float" value="0" />
                                   </struct>
                                 </prop>
-                                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -1128,7 +1128,7 @@
                                 <prop name="Bottom" propid="4" type="float" value="0" />
                               </struct>
                             </prop>
-                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -1382,14 +1382,14 @@
                         <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                         <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                         <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                          <value>0xff203d80</value>
+                          <value>0xFF9966BB</value>
                           <value>0xff4267b6</value>
-                          <value>0xff193066</value>
-                          <value>0xffe5ffff</value>
-                          <value>0xff203d80</value>
+                          <value>0xFF9966BB</value>
+                          <value>0xFFFFFFFF</value>
+                          <value>0xFF9966BB</value>
                           <value>0xff4267b6</value>
-                          <value>0xff193066</value>
-                          <value>0xffe5ffff</value>
+                          <value>0xFF9966BB</value>
+                          <value>0xFFFFFFFF</value>
                         </prop>
                       </object>
                       <value type="object" />
@@ -1469,7 +1469,7 @@
                 <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
               </object>
             </prop>
-            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff5576b1" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFF9966BB" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
             <prop name="Comment" propid="Comment" type="string" value="divider bar 2" />
@@ -1693,7 +1693,7 @@
                   </object>
                 </prop>
                 <prop name="FillDirection" propid="0x06b55433" type="uint32" value="0" />
-                <prop name="MainColor" propid="0x06b55459" type="uint32" value="0xff74e837" />
+                <prop name="MainColor" propid="0x06b55459" type="uint32" value="0xFF00FF00" />
                 <prop name="SecondaryColor" propid="0x06b55461" type="uint32" value="0xffffffff" />
               </object>
             </prop>
@@ -1717,7 +1717,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="0" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -2658,14 +2658,14 @@
                     <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                      <value>0xff203d80</value>
+                      <value>0xFF9966BB</value>
                       <value>0xff4267b6</value>
-                      <value>0xff193066</value>
-                      <value>0xffe5ffff</value>
-                      <value>0xff203d80</value>
+                      <value>0xFF9966BB</value>
+                      <value>0xFFFFFFFF</value>
+                      <value>0xFF9966BB</value>
                       <value>0xff4267b6</value>
-                      <value>0xff193066</value>
-                      <value>0xffe5ffff</value>
+                      <value>0xFF9966BB</value>
+                      <value>0xFFFFFFFF</value>
                     </prop>
                   </object>
                   <value type="object" />
@@ -2825,7 +2825,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2840,7 +2840,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2864,7 +2864,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2888,7 +2888,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2912,7 +2912,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2936,7 +2936,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -3017,7 +3017,7 @@
                     <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
                   </object>
                 </prop>
-                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff5576b1" />
+                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFF9966BB" />
                 <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                 <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                 <prop name="Comment" propid="Comment" type="string" value="divider bar 2" />
@@ -3096,7 +3096,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffe5f6ff" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFFFFFF" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="0" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -3120,7 +3120,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -3144,7 +3144,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -3252,14 +3252,14 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff203d80</value>
+                              <value>0xFF9966BB</value>
                               <value>0xff4267b6</value>
-                              <value>0xff193066</value>
-                              <value>0xffe5ffff</value>
-                              <value>0xff203d80</value>
+                              <value>0xFF9966BB</value>
+                              <value>0xFFFFFFFF</value>
+                              <value>0xFF9966BB</value>
                               <value>0xff4267b6</value>
-                              <value>0xff193066</value>
-                              <value>0xffe5ffff</value>
+                              <value>0xFF9966BB</value>
+                              <value>0xFFFFFFFF</value>
                             </prop>
                           </object>
                           <value type="object" />
@@ -3331,7 +3331,7 @@
                                 <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                               </object>
                             </prop>
-                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                           </object>
@@ -3367,7 +3367,7 @@
                                     <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                   </object>
                                 </prop>
-                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                 <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                 <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                               </object>
@@ -3403,7 +3403,7 @@
                                         <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                       </object>
                                     </prop>
-                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                   </object>
@@ -3439,7 +3439,7 @@
                                             <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                           </object>
                                         </prop>
-                                        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                       </object>
@@ -3475,7 +3475,7 @@
                                                 <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                               </object>
                                             </prop>
-                                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                           </object>
@@ -3511,7 +3511,7 @@
                                                     <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                                   </object>
                                                 </prop>
-                                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                                <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                                 <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                                 <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                               </object>
@@ -3547,7 +3547,7 @@
                                                         <prop name="Scale" propid="0x4f3c4a2b" type="float" value="1" />
                                                       </object>
                                                     </prop>
-                                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffd8ffed" />
+                                                    <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
                                                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
                                                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                                                   </object>
@@ -3575,7 +3575,7 @@
                                                 <prop name="Bottom" propid="4" type="float" value="0" />
                                               </struct>
                                             </prop>
-                                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -3590,7 +3590,7 @@
                                             <prop name="Bottom" propid="4" type="float" value="0" />
                                           </struct>
                                         </prop>
-                                        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                         <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                         <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                         <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -3605,7 +3605,7 @@
                                         <prop name="Bottom" propid="4" type="float" value="0" />
                                       </struct>
                                     </prop>
-                                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -3620,7 +3620,7 @@
                                     <prop name="Bottom" propid="4" type="float" value="0" />
                                   </struct>
                                 </prop>
-                                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -3635,7 +3635,7 @@
                                 <prop name="Bottom" propid="4" type="float" value="0" />
                               </struct>
                             </prop>
-                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="2" />
                             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="0" />
@@ -4307,7 +4307,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffe5f6ff" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -4331,7 +4331,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xffe5f6ff" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="4" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -4363,7 +4363,7 @@
                 <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
                 <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
                 <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+                <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
                 <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
                 <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
                 <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -4420,7 +4420,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0a2366" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF9966BB" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="4" />
@@ -4474,7 +4474,7 @@
             <prop name="GlowColor" propid="0x0f3c0013" type="uint32" value="0xffffffff" />
           </object>
         </prop>
-        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xff5576b1" />
+        <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFF9966BB" />
         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
         <prop name="Comment" propid="Comment" type="string" value="divider bar 1" />
@@ -4484,7 +4484,7 @@
         <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x06525f60" />
         <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
         <prop name="Area" propid="0xeec1b005" type="rectf" value="43.00003,7.999969,346,112" />
-        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFC0A0E0" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFFFBCCC" />
         <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
@@ -4554,7 +4554,7 @@
             <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
             <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
             <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-            <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+            <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
             <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
             <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
             <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
@@ -4602,7 +4602,7 @@
         <prop name="ControlID" propid="0xeec1b001" type="uint32" value="0x0e6af650" />
         <prop name="CommandID" propid="0xeec1b002" type="uint32" value="0" />
         <prop name="Area" propid="0xeec1b005" type="rectf" value="43.00003,7.999969,346,112" />
-        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFC0A0E0" />
+        <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0xFFFFBCCC" />
         <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffffffff" />
         <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0" />
         <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
@@ -4672,7 +4672,7 @@
             <prop name="UseCellColors" propid="0x0582090d" type="bool" value="False" />
             <prop name="GridLineColor" propid="0x05820906" type="uint32" value="0xff000000" />
             <prop name="BackgroundColor" propid="0x05820907" type="uint32" value="0x00000000" />
-            <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xffd2f0f4" />
+            <prop name="SelectionColor" propid="0x05820908" type="uint32" value="0xFFFFFFFF" />
             <prop name="HighlightColor" propid="0x05820909" type="uint32" value="0xffc0f8ff" />
             <prop name="DisabledColor" propid="0x0582090a" type="uint32" value="0x00000000" />
             <prop name="ForceCellTooltips" propid="0x0582090b" type="bool" value="False" />
