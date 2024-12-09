@@ -7073,11 +7073,11 @@
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                             </prop>
                           </object>
@@ -7295,11 +7295,11 @@
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                             </prop>
                           </object>
@@ -7517,11 +7517,11 @@
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                             </prop>
                           </object>
@@ -7739,11 +7739,11 @@
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                             </prop>
                           </object>
@@ -7961,11 +7961,11 @@
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                               <value>0xff002d74</value>
                               <value>0xFF9966BB</value>
-                              <value>0xff4c69e0</value>
+                              <value>0xFF9966BB</value>
                               <value>0xffffffff</value>
                             </prop>
                           </object>
